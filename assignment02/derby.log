@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Mar 11 18:53:36 IRST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-017f-7993-fd15-0000040078c8 
+on database directory memory:/home/masoudy/DevelopeTools/Projects/Shah Abir Projects/T02/myDb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/home/masoudy/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.2+8-LTS-86
+user.dir=/home/masoudy/DevelopeTools/Projects/Shah Abir Projects/T02
+os.name=Linux
+os.arch=amd64
+os.version=5.13.0-30-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
